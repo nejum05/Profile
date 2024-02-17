@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+    <string name="birth">Date of Birth</string>
+    <string name="select">Select Your District</string>
+</resources>
